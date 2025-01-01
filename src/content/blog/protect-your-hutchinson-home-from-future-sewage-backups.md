@@ -7,6 +7,7 @@ author: The Water Damage Restoration Team of Kansas
 date: 2024-11-25T05:27:00.000Z
 tags:
   - post
+  - featured
 image: /assets/images/blog/sewage-damage-prevention-kansas.webp
 imageAlt: Protect Your Hutchinson Home from Future Sewage Backups
 ---
@@ -77,4 +78,17 @@ Our Kansas Service [Locations](https://kansasfloodrepair.com/location):
 * [Hutchinson](https://kansasfloodrepair.com/)
 * [Wichita](https://kansasfloodrepair.com/wichita/)
 * [Topeka](https://kansasfloodrepair.com/topeka/)
-* [Shawnee](https://kansasfloodrepair.com/shawnee/)[](https://kansasfloodrepair.com/shawnee/)
+* [Shawnee](https://kansasfloodrepair.com/shawnee/)
+* [Salina](/salina-ks)
+* [Ottawa](/ottawa-ks)
+* [Olathe](/olathe-ks)
+* [Manhattan](/manhattan-ks)
+* [Leawood](/leawood-ks)
+* [Lawrence](/lawrence-ks)
+* [McPherson](/mcpherson-ks)
+* [Lenexa](/lenexa-ks)
+* [Kansas City](/kansas-city-ks)
+* [Overland Park](/overland-park-ks)[](/overland-park-ks)[](/overland-park-ks)[](/lenexa-ks)[](https://kansasfloodrepair.com/shawnee/)
+
+If you need immediate water damage restoration assistance in Kansas: 
+[(785) 390-8918](<>)
